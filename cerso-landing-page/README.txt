@@ -131,7 +131,7 @@ http://localhost:8000
 ## 🌐 Live Demo
 
 **Live Website:**
-`YOUR_VERCEL_URL`
+https://cerso-landing-page-beta.vercel.app/
 
 ## 📱 Responsive Design
 
